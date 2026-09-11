@@ -4,8 +4,8 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
 ![viem](https://img.shields.io/badge/-viem-FFC517?logo=viem&logoColor=black)
-[![Stars](https://img.shields.io/github/stars/0pFlow/simple-blockchain-explorer?style=flat)](https://github.com/0pFlow/simple-blockchain-explorer/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/0pFlow/simple-blockchain-explorer)](https://github.com/0pFlow/simple-blockchain-explorer/commits/main)
+[![Stars](https://img.shields.io/github/stars/0pStack/simple-blockchain-explorer?style=flat)](https://github.com/0pStack/simple-blockchain-explorer/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/0pStack/simple-blockchain-explorer)](https://github.com/0pStack/simple-blockchain-explorer/commits/main)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A lightweight Ethereum block explorer built with vanilla TypeScript, Vite, and [viem](https://viem.sh/). It connects to the Sepolia testnet to look up account balances, browse recent blocks, inspect a block's transactions, and broadcast new transactions from a local wallet client.
